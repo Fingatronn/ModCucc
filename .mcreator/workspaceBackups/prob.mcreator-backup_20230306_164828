@@ -3059,6 +3059,15 @@
         ]
       },
       "path": "~/world"
+    },
+    {
+      "name": "Sa",
+      "type": "loottable",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sa",
+      "path": "~/p90 files"
     }
   ],
   "variable_elements": [
@@ -3093,8 +3102,8 @@
       "item.prob.steel_armor_leggings": "Steel Leggings",
       "block.prob.boiler": "Boiler",
       "item.prob.capacitor_circuit": "Capacitor Circuit",
-      "block.prob.uranium_block": "Block of Uranium",
       "subtitles.rpg": "",
+      "block.prob.uranium_block": "Block of Uranium",
       "block.prob.naquadah_block": "Block of Naquadah",
       "block.prob.aluminium_block": "Block of Aluminium",
       "block.prob.bronze_block": "Block of Bronze",
