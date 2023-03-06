@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "prob:blocks/637282741485874816",
+    "particle": "prob:blocks/637282741485874816"
+  },
+  "render_type": "solid"
+}

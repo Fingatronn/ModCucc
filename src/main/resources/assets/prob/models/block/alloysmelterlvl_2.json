@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "prob:blocks/machinelvl2",
+    "up": "prob:blocks/machinelvl2",
+    "north": "prob:blocks/alloyfurneacelvl2text",
+    "east": "prob:blocks/machinelvl2",
+    "south": "prob:blocks/machinelvl2",
+    "west": "prob:blocks/machinelvl2",
+    "particle": "prob:blocks/machinelvl2"
+  },
+  "render_type": "solid"
+}

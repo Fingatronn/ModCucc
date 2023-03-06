@@ -1,0 +1,9 @@
+{
+  "parent": "prob:custom/naquadah_generator",
+  "textures": {
+    "all": "prob:blocks/natrium_ore_block",
+    "particle": "prob:blocks/natrium_ore_block",
+    "missing": "prob:blocks/water"
+  },
+  "render_type": "solid"
+}

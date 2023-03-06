@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "prob:block/survivalgenerator"
+    },
+    "facing=east": {
+      "model": "prob:block/survivalgenerator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "prob:block/survivalgenerator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "prob:block/survivalgenerator",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "prob:block/survivalgenerator",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "prob:block/survivalgenerator",
+      "x": 90
+    }
+  }
+}

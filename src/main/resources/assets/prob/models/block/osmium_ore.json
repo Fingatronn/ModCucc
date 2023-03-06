@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "prob:blocks/osmium_ore",
+    "particle": "prob:blocks/osmium_ore"
+  },
+  "render_type": "solid"
+}

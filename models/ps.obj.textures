@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "m_7e02624c-816a-eb5a-e9f9-fdfad3f40f5a": "generator_side"
+      },
+      "name": "default"
+    }
+  }
+}

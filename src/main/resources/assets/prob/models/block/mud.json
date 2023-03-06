@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "prob:blocks/mud1",
+    "top": "prob:blocks/mud2",
+    "side": "prob:blocks/mud1",
+    "overlay": "prob:blocks/mud1",
+    "particle": "prob:blocks/mud1"
+  },
+  "render_type": "cutout_mipped"
+}

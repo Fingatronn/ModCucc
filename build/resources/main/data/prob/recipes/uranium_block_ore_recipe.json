@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "prob:uranium_block"
+    }
+  ],
+  "result": {
+    "item": "prob:uranium",
+    "count": 9
+  }
+}

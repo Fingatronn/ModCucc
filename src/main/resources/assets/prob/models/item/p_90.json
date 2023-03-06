@@ -1,0 +1,8 @@
+{
+  "parent": "prob:custom/ps",
+  "textures": {
+    "1": "prob:blocks/oil",
+    "missing": "prob:blocks/oil",
+    "particle": "prob:items/p92"
+  }
+}

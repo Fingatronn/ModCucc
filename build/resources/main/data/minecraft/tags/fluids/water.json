@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "prob:oil",
+    "prob:flowing_oil",
+    "prob:steam",
+    "prob:flowing_steam",
+    "prob:methan",
+    "prob:flowing_methan",
+    "prob:ethan",
+    "prob:flowing_ethan",
+    "prob:gasoline",
+    "prob:flowing_gasoline",
+    "prob:kerozine",
+    "prob:flowing_kerozine",
+    "prob:oxygen",
+    "prob:flowing_oxygen",
+    "prob:chlore",
+    "prob:flowing_chlore",
+    "prob:hydrogen",
+    "prob:flowing_hydrogen",
+    "prob:nitrogen",
+    "prob:flowing_nitrogen",
+    "prob:ammonia",
+    "prob:flowing_ammonia",
+    "prob:nitric_acid",
+    "prob:flowing_nitric_acid"
+  ]
+}

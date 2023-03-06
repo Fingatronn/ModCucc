@@ -1,0 +1,40 @@
+{
+  "_fv": 34,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 1,
+    "texture": "p92",
+    "customModelName": "ps:default",
+    "name": "P-90",
+    "specialInfo": [
+      "Taktikai kompakt gépfegyver",
+      "30 tár"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Probamod"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Ammunition"
+    },
+    "shootConstantly": true,
+    "usageCount": 3000,
+    "actionSound": {
+      "value": "CUSTOM:p90"
+    },
+    "hasGlow": false,
+    "animation": "eat",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 4.0,
+    "bulletPower": 2.5,
+    "bulletDamage": 3.5,
+    "bulletKnockback": 0,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Lovesanimation"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "loves.png"
+  }
+}

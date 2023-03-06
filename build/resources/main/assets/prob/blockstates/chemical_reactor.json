@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "prob:block/chemical_reactor"
+    },
+    "facing=east": {
+      "model": "prob:block/chemical_reactor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "prob:block/chemical_reactor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "prob:block/chemical_reactor",
+      "y": 270
+    }
+  }
+}

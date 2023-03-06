@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "prob:salt_block"
+    }
+  ],
+  "result": {
+    "item": "prob:salt_dust",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "prob:blocks/chemical1",
+    "up": "prob:blocks/chemical1",
+    "north": "prob:blocks/chemical2",
+    "east": "prob:blocks/chemical1",
+    "south": "prob:blocks/chemical1",
+    "west": "prob:blocks/chemical1",
+    "particle": "prob:blocks/chemical1"
+  },
+  "render_type": "solid"
+}

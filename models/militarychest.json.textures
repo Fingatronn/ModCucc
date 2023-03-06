@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "",
+        "missing": ""
+      },
+      "name": "default"
+    },
+    "military": {
+      "map": {
+        "0": "crate",
+        "missing": "oil"
+      },
+      "name": "military"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "prob:custom/militarychest",
+  "textures": {
+    "all": "prob:blocks/bronze_ore_block",
+    "particle": "prob:blocks/bronze_ore_block",
+    "0": "prob:blocks/",
+    "missing": "prob:blocks/"
+  },
+  "render_type": "solid"
+}

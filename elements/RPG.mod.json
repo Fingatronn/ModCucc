@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "rpg",
+    "customModelName": "Normal",
+    "name": "RPG",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Probamod"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Rocket"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "CUSTOM:rpg"
+    },
+    "hasGlow": false,
+    "animation": "crossbow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 2.5,
+    "bulletDamage": 3.9999999999999996,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Rocket"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "rocket3.png",
+    "onBulletHitsBlock": {
+      "name": "RPGProjectileHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "RPGProjectileHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "RPGProjectileHitsBlock"
+    }
+  }
+}

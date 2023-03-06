@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "prob:trinium_ingot"
+    },
+    "1": {
+      "item": "prob:trinium_ingot"
+    },
+    "2": {
+      "item": "prob:trinium_ingot"
+    },
+    "3": {
+      "item": "prob:trinium_ingot"
+    },
+    "4": {
+      "item": "prob:trinium_ingot"
+    },
+    "5": {
+      "item": "prob:trinium_ingot"
+    },
+    "6": {
+      "item": "prob:trinium_ingot"
+    },
+    "7": {
+      "item": "prob:trinium_ingot"
+    },
+    "8": {
+      "item": "prob:trinium_ingot"
+    }
+  },
+  "result": {
+    "item": "prob:trinium_block",
+    "count": 1
+  }
+}

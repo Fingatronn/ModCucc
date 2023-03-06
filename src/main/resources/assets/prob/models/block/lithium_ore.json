@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "prob:blocks/lithium_ore",
+    "particle": "prob:blocks/lithium_ore"
+  },
+  "render_type": "solid"
+}

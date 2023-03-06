@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "prob:naquadah_dust"
+    },
+    "1": {
+      "item": "prob:naquadah_dust"
+    },
+    "2": {
+      "item": "prob:naquadah_dust"
+    },
+    "3": {
+      "item": "prob:naquadah_dust"
+    },
+    "4": {
+      "item": "prob:naquadah_dust"
+    },
+    "5": {
+      "item": "prob:naquadah_dust"
+    },
+    "6": {
+      "item": "prob:naquadah_dust"
+    },
+    "7": {
+      "item": "prob:naquadah_dust"
+    },
+    "8": {
+      "item": "prob:naquadah_dust"
+    }
+  },
+  "result": {
+    "item": "prob:naquadah_block",
+    "count": 1
+  }
+}

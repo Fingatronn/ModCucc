@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "prob:blocks/machinechasislvl1",
+    "particle": "prob:blocks/machinechasislvl1"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,20 @@
+{
+  "rpg": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "prob:fire-magic-6947",
+        "stream": false
+      }
+    ]
+  },
+  "p90": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "prob:ar15-real-recording-992532",
+        "stream": false
+      }
+    ]
+  }
+}

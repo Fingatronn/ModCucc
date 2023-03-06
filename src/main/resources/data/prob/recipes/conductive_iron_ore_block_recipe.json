@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "prob:conductive_iron_ingot"
+    },
+    "1": {
+      "item": "prob:conductive_iron_ingot"
+    },
+    "2": {
+      "item": "prob:conductive_iron_ingot"
+    },
+    "3": {
+      "item": "prob:conductive_iron_ingot"
+    },
+    "4": {
+      "item": "prob:conductive_iron_ingot"
+    },
+    "5": {
+      "item": "prob:conductive_iron_ingot"
+    },
+    "6": {
+      "item": "prob:conductive_iron_ingot"
+    },
+    "7": {
+      "item": "prob:conductive_iron_ingot"
+    },
+    "8": {
+      "item": "prob:conductive_iron_ingot"
+    }
+  },
+  "result": {
+    "item": "prob:conductive_iron_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "prob:custom/c4",
+  "textures": {
+    "all": "prob:blocks/generator_side",
+    "particle": "prob:blocks/generator_side",
+    "0": "prob:blocks/"
+  },
+  "render_type": "solid"
+}

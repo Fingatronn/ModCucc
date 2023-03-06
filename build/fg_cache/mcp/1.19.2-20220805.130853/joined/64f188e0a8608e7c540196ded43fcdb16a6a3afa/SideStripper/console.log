@@ -1,0 +1,9 @@
+JVM:         C:\Program Files\Pylo\MCreator\jdk\bin\java.exe
+JVM Args:    
+Run Args:    "--strip", "--input", "C:\Users\Acer\MCreatorWorkspaces\prob\build\fg_cache\mcp\1.19.2-20220805.130853\joined\64f188e0a8608e7c540196ded43fcdb16a6a3afa\AccessTransformer\output.jar", "--output", "C:\Users\Acer\MCreatorWorkspaces\prob\build\fg_cache\mcp\1.19.2-20220805.130853\joined\64f188e0a8608e7c540196ded43fcdb16a6a3afa\SideStripper\output.jar", "--data", "C:\Users\Acer\MCreatorWorkspaces\prob\build\fg_cache\mcp\1.19.2-20220805.130853\joined\64f188e0a8608e7c540196ded43fcdb16a6a3afa\SideStripper\string_data.sas"
+Classpath:   C:\Users\Acer\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\mergetool\1.1.5\mergetool-1.1.5-fatjar.jar
+Working Dir: C:\Users\Acer\MCreatorWorkspaces\prob\build\fg_cache\mcp\1.19.2-20220805.130853\joined\64f188e0a8608e7c540196ded43fcdb16a6a3afa\SideStripper
+Main Class:  net.minecraftforge.mergetool.ConsoleMerger
+Input:  C:\Users\Acer\MCreatorWorkspaces\prob\build\fg_cache\mcp\1.19.2-20220805.130853\joined\64f188e0a8608e7c540196ded43fcdb16a6a3afa\AccessTransformer\output.jar
+Output: C:\Users\Acer\MCreatorWorkspaces\prob\build\fg_cache\mcp\1.19.2-20220805.130853\joined\64f188e0a8608e7c540196ded43fcdb16a6a3afa\SideStripper\output.jar
+Data:   C:\Users\Acer\MCreatorWorkspaces\prob\build\fg_cache\mcp\1.19.2-20220805.130853\joined\64f188e0a8608e7c540196ded43fcdb16a6a3afa\SideStripper\string_data.sas

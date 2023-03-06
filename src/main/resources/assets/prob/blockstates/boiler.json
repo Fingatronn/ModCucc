@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "prob:block/boiler"
+    },
+    "facing=east": {
+      "model": "prob:block/boiler",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "prob:block/boiler",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "prob:block/boiler",
+      "y": 270
+    }
+  }
+}

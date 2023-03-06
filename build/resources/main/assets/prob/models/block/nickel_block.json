@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "prob:blocks/nickel_ore_block",
+    "particle": "prob:blocks/nickel_ore_block"
+  },
+  "render_type": "solid"
+}

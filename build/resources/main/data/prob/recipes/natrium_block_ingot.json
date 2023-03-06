@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "prob:natrium_block"
+    }
+  ],
+  "result": {
+    "item": "prob:natrium_ingot",
+    "count": 9
+  }
+}

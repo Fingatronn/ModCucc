@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "river",
+    "desert"
+  ],
+  "features": "prob:salt_ore",
+  "step": "underground_ores"
+}

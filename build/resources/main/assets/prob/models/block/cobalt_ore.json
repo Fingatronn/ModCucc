@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "prob:blocks/cobalt_ore",
+    "particle": "prob:blocks/cobalt_ore"
+  },
+  "render_type": "solid"
+}

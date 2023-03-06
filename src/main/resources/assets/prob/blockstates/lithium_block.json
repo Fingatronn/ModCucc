@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "prob:block/lithium_block"
+    }
+  }
+}

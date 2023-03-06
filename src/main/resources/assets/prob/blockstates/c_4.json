@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "prob:block/c_4"
+    },
+    "facing=east": {
+      "model": "prob:block/c_4",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "prob:block/c_4",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "prob:block/c_4",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "prob:block/c_4",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "prob:block/c_4",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "prob:block/crusherlvl_1"
+    },
+    "facing=east": {
+      "model": "prob:block/crusherlvl_1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "prob:block/crusherlvl_1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "prob:block/crusherlvl_1",
+      "y": 270
+    }
+  }
+}

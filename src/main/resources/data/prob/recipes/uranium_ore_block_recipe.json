@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "prob:uranium"
+    },
+    "1": {
+      "item": "prob:uranium"
+    },
+    "2": {
+      "item": "prob:uranium"
+    },
+    "3": {
+      "item": "prob:uranium"
+    },
+    "4": {
+      "item": "prob:uranium"
+    },
+    "5": {
+      "item": "prob:uranium"
+    },
+    "6": {
+      "item": "prob:uranium"
+    },
+    "7": {
+      "item": "prob:uranium"
+    },
+    "8": {
+      "item": "prob:uranium"
+    }
+  },
+  "result": {
+    "item": "prob:uranium_block",
+    "count": 1
+  }
+}

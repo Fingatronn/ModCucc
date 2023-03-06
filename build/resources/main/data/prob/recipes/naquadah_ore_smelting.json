@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 4.8999999999999995,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "prob:naquadah_ore"
+  },
+  "result": "prob:naquadah_dust"
+}

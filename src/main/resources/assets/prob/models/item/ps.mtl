@@ -1,0 +1,13 @@
+newmtl m_7e02624c-816a-eb5a-e9f9-fdfad3f40f5a
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd prob:blocks/generator_side
+Ns 100.0
+d 1.0
+newmtl none
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 100.0
+d 1.0

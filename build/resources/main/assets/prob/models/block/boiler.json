@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "prob:blocks/boilertop",
+    "up": "prob:blocks/boilertop",
+    "north": "prob:blocks/boiler2",
+    "east": "prob:blocks/boiler2",
+    "south": "prob:blocks/boiler2",
+    "west": "prob:blocks/boiler2",
+    "particle": "prob:blocks/boilertop"
+  },
+  "render_type": "solid"
+}

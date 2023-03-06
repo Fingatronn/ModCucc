@@ -1,0 +1,18 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:Replicator"
+      }
+    ],
+    "biomes": [],
+    "name": "prob_rep",
+    "namespace": "forge"
+  }
+}

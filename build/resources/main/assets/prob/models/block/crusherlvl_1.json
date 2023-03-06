@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "prob:blocks/machinetop",
+    "up": "prob:blocks/machinetop",
+    "north": "prob:blocks/crusher",
+    "east": "prob:blocks/side",
+    "south": "prob:blocks/side",
+    "west": "prob:blocks/side",
+    "particle": "prob:blocks/machinetop"
+  },
+  "render_type": "solid"
+}

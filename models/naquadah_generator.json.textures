@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "missing": ""
+      },
+      "name": "default"
+    },
+    "ng": {
+      "map": {
+        "missing": "water"
+      },
+      "name": "ng"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "prob:osmium_block"
+    }
+  ],
+  "result": {
+    "item": "prob:osmium_ingot",
+    "count": 9
+  }
+}
